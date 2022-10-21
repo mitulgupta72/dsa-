@@ -1,0 +1,1 @@
+{"name":"Local: buy_please","url":"e:\\DSA\\buy_please.cpp","tests":[{"id":1641931115513,"input":"5\n4\n3\n2","output":"23"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA\\buy_please.cpp","group":"local","local":true}
